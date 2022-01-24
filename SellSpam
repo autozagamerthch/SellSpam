@@ -184,7 +184,7 @@ def test34():
 	
 def test35():
 	requests.get(f"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
-	print("กําลังยิง")
+	print("ยิงอยู่ครับ")
 
 def test36():
 	requests.get(f"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register")
